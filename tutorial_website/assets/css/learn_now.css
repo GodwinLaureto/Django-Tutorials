@@ -1,0 +1,18 @@
+.navbar h1 {
+    color: white;
+}
+.navbar {
+    display: inline-block;
+    text-align: center;
+}
+.carousel-inner > .carousel-item >img{
+    min-height : 300px;
+    max-height : 600px;
+    width : 100%;
+  }
+.container-fluid{
+    padding-top: 100px;
+    margin: 30px;
+    max-width: fit-content;
+    display: inline-block;
+}
